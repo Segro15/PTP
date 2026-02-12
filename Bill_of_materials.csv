@@ -1,0 +1,23 @@
+Reference;Quantity;Manufacturers Part Number;Manufacturer;Value;Footprint
+BT1;1;1042;Keystone;~;Battery:BatteryHolder_Keystone_1042_1x18650
+BZ1;1;AT?0927?TT?6?R;PUIaudio;~;Buzzer_Beeper:MagneticBuzzer_PUI_AT-0927-TT-6-R
+C1,C2,C3,C4,C5,C6,C8,C11;8;~;~;0.1u;Capacitor_SMD:C_0402_1005Metric
+C7,C10,C12,C13;4;~;~;10u;Capacitor_SMD:C_0603_1608Metric
+C9;1;~;~;1u;Capacitor_SMD:C_0402_1005Metric
+D1,D2,D3;3;~;~;~;LED_THT:LED_D5.0mm_FlatTop
+J1;1;6,29105E+11;Wuerth;USB_B_Micro;Connector_USB:USB_Micro-B_Wuerth_629105150521
+L1;1;MLZ2012;TDK;2.2u;Inductor_SMD:L_TDK_MLZ2012_h0.85mm
+Q1,Q2,Q3;3;BS170-D26Z;Onsemi;BS170;Package_TO_SOT_THT:TO-92
+R1,R2,R3;3;~;~;100;Resistor_SMD:R_1206_3216Metric
+R4,R5,R6,R20;4;~;~;100k;Resistor_SMD:R_1206_3216Metric
+R7,R8,R9,R10,R11,R12,R13,R14;8;~;~;470;Resistor_SMD:R_1206_3216Metric
+R15,R16;2;~;~;220;Resistor_SMD:R_0805_2012Metric
+R17;1;~;~;10k;Resistor_SMD:R_0805_2012Metric
+R18;1;~;~;1k65;Resistor_SMD:R_0805_2012Metric
+R19;1;~;~;1k;Resistor_SMD:R_0805_2012Metric
+SW1,SW2,SW3,SW4;4;MJTP1243;Apem;Button Switch;Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H4.3_APEM_MJTP1243
+SW5;1;PCM12;Littelfuse;SPDT;Button_Switch_SMD:SW_SPDT_PCM12
+U1;1;MP006832;Onsemi;3-digit 7-segment display;Display_7Segment:CA56-12CGKWA
+U2;1;STM32F446RE;STM32;~;Package_QFP:LQFP-64_10x10mm_P0.5mm
+U3;1;TPS63000;Texas Instruments;~;Package_SON:Texas_DRC0010J_ThermalVias
+U4;1;LTC4054ES5-4.2;Linear Tehnology;~;Package_TO_SOT_SMD:TSOT-23-5
